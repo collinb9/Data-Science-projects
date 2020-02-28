@@ -5,3 +5,5 @@ Repository for displaying my personal data science and machine learning projects
 
 2. **Stock price forecasting**: In this project an LSTM is used to predict the next 10 days' stock price of two different stocks using data 
 from the previous 300 days. 
+
+3. **DCGAN**: I train a deep convolution generative adversarial network to generate 64x64 images of cars. The model is trained on the [Stanford AI lab car dataset](https://ai.stanford.edu/~jkrause/cars/car_dataset.html), which contains 16,185 images. 
